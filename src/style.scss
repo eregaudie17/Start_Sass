@@ -1,6 +1,5 @@
+@use "base";
+
 body {
-  font-family: sans-serif;
-  font-size: 2rem;
-  background: hsl(226, 19%, 58%);
-  color: hsl(0, 0%, 20%);
+  font-family: var(--ff-sans);
 }
